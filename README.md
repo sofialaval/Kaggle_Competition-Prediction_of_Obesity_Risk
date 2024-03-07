@@ -5,5 +5,11 @@ The goal of this competition is to use various factors to predict obesity risk i
 
 2. Build, tune, and assess performance on classification model of choice. Catboost was chosen due to its simplicity in handling categorical data without the need to encode beforehand.
 
+(Final accuracy score on Kaggle: .90426) 
 
-Final accuracy score: .90426 
+# Data
+The train and test datasets were downloaded from Kaggle. They can be found in the Data folder.
+
+# Prerequisites 
+The Catboost model is located in Code/KaggleModels.ipynb. To run, install Jupyter Notebook and then use pip install on the requirements in requirements.txt in the Code folder. 
+
