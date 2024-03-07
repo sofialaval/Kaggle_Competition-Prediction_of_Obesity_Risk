@@ -11,5 +11,6 @@ The goal of this competition is to use various factors to predict obesity risk i
 The train and test datasets were downloaded from Kaggle. They can be found in the Data folder.
 
 # Prerequisites 
-The Catboost model is located in Code/KaggleModels.ipynb. To run, install Jupyter Notebook and then use pip install on the requirements in requirements.txt in the Code folder. 
+- The exploratory analysis is located in Code/EDA.ipynb. To run, install Jupyter Notebook. 
+- The Catboost model is located in Code/KaggleModels.ipynb. To run, install Jupyter Notebook and then use pip install on the requirements in requirements.txt in the Code folder. 
 
