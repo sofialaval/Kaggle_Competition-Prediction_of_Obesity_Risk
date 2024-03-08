@@ -12,5 +12,7 @@ The train and test datasets were downloaded from Kaggle. They can be found in th
 
 # Prerequisites 
 - The exploratory analysis is located in Code/EDA.ipynb. To run, install Jupyter Notebook. 
-- The Catboost model is located in Code/KaggleModels.ipynb. To run, install Jupyter Notebook and then use pip install on the requirements in requirements.txt in the Code folder. 
+- The Catboost model is located in Code/KaggleModels.ipynb. To run, install Jupyter Notebook. 
+
+Use pip install on the requirements in requirements.txt in the Code folder. 
 
