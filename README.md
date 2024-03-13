@@ -11,8 +11,8 @@ The goal of this [competition](https://www.kaggle.com/competitions/playground-se
 The train and test datasets were downloaded from Kaggle. They can be found in the Data folder.
 
 # Prerequisites 
-- The exploratory analysis is located in Code/EDA.ipynb. To run, install Jupyter Notebook. 
-- The Catboost model is located in Code/KaggleModels.ipynb. To run, install Jupyter Notebook. 
+- The exploratory analysis is located [here](Code/EDA.ipynb). To run, install Jupyter Notebook. 
+- The Catboost model is located in [here](Code/KaggleModels.ipynb). To run, install Jupyter Notebook. 
 
 Use pip install on the requirements in requirements.txt in the Code folder. 
 
